@@ -31,8 +31,6 @@ This project was built to simulate a real-world Salesforce implementation for a 
 - Designed management dashboards and reporting metrics
 - Implemented version control using GitHub and Salesforce CLI
 - Configured CI/CD with scratch org strategy (in progress)
-
-### 🧠 Collaborator (Partner Role)
 - Assisted with business logic definition and user flows
 - Helped map the sales pipeline stages
 - Provided feedback on UI/UX and KPI tracking for stakeholders
